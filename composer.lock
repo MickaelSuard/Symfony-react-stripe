@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9791b11c9e4ecfd17e57969d895509d7",
+    "content-hash": "2e39549e74debfc1f1f2f7a5d8449357",
     "packages": [
         {
             "name": "doctrine/cache",
@@ -6684,16 +6684,16 @@
         },
         {
             "name": "symfony/ux-react",
-            "version": "v2.13.2",
+            "version": "v2.21.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/ux-react.git",
-                "reference": "ffd3f01fd3ca7af0b7708b1aca80e148364b374d"
+                "reference": "1e8f097e73f6d561272b044cb3a7b5ab84eda3ce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/ux-react/zipball/ffd3f01fd3ca7af0b7708b1aca80e148364b374d",
-                "reference": "ffd3f01fd3ca7af0b7708b1aca80e148364b374d",
+                "url": "https://api.github.com/repos/symfony/ux-react/zipball/1e8f097e73f6d561272b044cb3a7b5ab84eda3ce",
+                "reference": "1e8f097e73f6d561272b044cb3a7b5ab84eda3ce",
                 "shasum": ""
             },
             "require": {
@@ -6740,7 +6740,7 @@
                 "symfony-ux"
             ],
             "support": {
-                "source": "https://github.com/symfony/ux-react/tree/v2.13.2"
+                "source": "https://github.com/symfony/ux-react/tree/v2.21.0"
             },
             "funding": [
                 {
@@ -6756,7 +6756,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-11-11T01:20:31+00:00"
+            "time": "2024-10-22T14:52:13+00:00"
         },
         {
             "name": "symfony/validator",
@@ -9812,7 +9812,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {},
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
@@ -9820,6 +9820,6 @@
         "ext-ctype": "*",
         "ext-iconv": "*"
     },
-    "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
 }
